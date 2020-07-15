@@ -1,0 +1,44 @@
+body{
+   /* background-color: #E5E5E5; */
+    
+}
+
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #562EFF;
+}
+.by{
+    color: #9F9F9F;
+}
+
+.ferdinand{
+    color: #562EFF;
+}
+
+.main{
+    max-width: 870px;
+}
+
+.top-player{
+    background: #FFFFFF;
+}
+
+.navbar img{
+    height: 40px;
+    width: 40px;
+}
+
+.navbar-nav img{
+    height: 40px;
+    width: 40px;
+}
+
+.player img{
+    width: 56px;
+    height: 56px;
+}
+
+.latest-img{
+    height: 180px;
+}
