@@ -42,3 +42,21 @@ h3{
 .latest-img{
     height: 180px;
 }
+
+.checked{
+    color: #FFA500;
+}
+
+.fa-clock-o{
+    color: #FF576C;
+}
+.time-col{
+    color: #FF576C;
+}
+
+footer{
+    background-color: #1d1d1d;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
